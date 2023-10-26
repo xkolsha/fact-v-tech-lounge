@@ -89,8 +89,7 @@ The development of the FACT-V Tech Lounge involved the application of various te
 
 Repository: https://github.com/vikramadityad/fact-v-tech-lounge
 
-[View Our App Live!](https://fact-v-tech-lounge-client-f58d96d137e5.herokuapp.com/)
-
+[View Our App Live!](https://main--fact-v.netlify.app/)
 ## Deployment Resources
 
 To deploy the application to Heroku, the following resources were used:
